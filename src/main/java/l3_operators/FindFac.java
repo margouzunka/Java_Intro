@@ -10,6 +10,7 @@ public class FindFac {
 
             }
             System.out.println();
+            System.out.println();
         }
     }
 }
